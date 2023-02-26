@@ -1,0 +1,35 @@
+body
+{
+  color: rgb(251, 228, 192);
+  background: #c6723e;
+}
+span
+{
+  font-size: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(69, 30, 17);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(67, 32, 15);
+}
+.emotion_name
+{
+  font-size: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.emoji
+{
+  font-size:38px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
